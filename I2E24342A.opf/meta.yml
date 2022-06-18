@@ -1,0 +1,39 @@
+id: I2E24342A
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T01:04:12.742491'
+last_modified: '2022-06-19T01:04:12.742503'
+parser: null
+source_metadata:
+  title: History of excellent Masters in Tibet
+  author: དམར་སྟོན་ཆོས་ཀྱི་རྒྱལ་པོ།
+  description: 'Digital version 2.0 {Tibetan}; master xml (completed: 2014-03-19);
+    revision in process, thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - 'Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།; This text was digitally published by Sachen
+    International (Digital Text version/id: NAMT001_ས་པཎ་གྱི་གསུང་སྒྲོས་ལམ་འབྲས་བླ་མ་བརྒྱུད་པའི་རྣམ་ཐར).
+
+    (src)'
+  - Text input:Guru Lama, Sachen International, Kathmandu (Nepal) (si)
+  - Editorial process:Mathias Fermer (mf), Gabi Coura (gc)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:བློ་གསལ་དོན་གྲུབ། (ld)
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/210
+  bases:
+    c705:
+      title: History of excellent Masters in Tibet
+      order: 1
+      base_file: c705.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
